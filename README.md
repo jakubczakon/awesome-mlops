@@ -59,6 +59,7 @@
 5. [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
 7. [MLSpec: A project to standardize the intercomponent schemas for a multi-stage ML Pipeline.](https://github.com/visenger/MLSpec)
 10. State of Enterprise ML 2019: [PDF](https://info.algorithmia.com/hubfs/2019/Whitepapers/The-State-of-Enterprise-ML-2020/Algorithmia_2020_State_of_Enterprise_ML.pdf?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=80984419&_hsenc=p2ANqtz--sz-e2gfqUeDvVSmjsXfvwOnLHB2ZkSdQsO1IRRAdnBIb0emf-JTh8NnwFxB-FeZberIw7_rI9ERTy8zFW8jvoTzjOfA&_hsmi=80984419) and [Interactive](https://algorithmia.com/state-of-ml?utm_medium=website&utm_source=interactive-page&utm_campaign=IC-1912-2020-State-of-ML&_hsenc=p2ANqtz-_WbXKYLnpgf4zi4OZTNYmNgCRPIFFEqmW-Cqi2Px_T1K2wkIJvDt7KdCxB5vXAPmGirLi7ukZTykxeUh9vmHdn7dRF9g&_hsmi=81660946)
+14. [How to Set Up Continuous Integration for Machine Learning with Github Actions and Neptune: Step by Step Guide](https://neptune.ai/blog/continuous-integration-for-machine-learning-with-github-actions-and-neptune)
 15. [Organizing machine learning projects: project management guidelines.](https://www.jeremyjordan.me/ml-projects-guide/)
 16. [Rules for ML Project (Best practices)](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 17. [ML Pipeline Template](https://www.agilestacks.com/tutorials/ml-pipelines)
@@ -145,6 +146,7 @@
 88. [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 89. [Comprehensive List of Feature Store Architectures for Data Scientists and Big Data Professionals](https://hackernoon.com/the-essential-architectures-for-every-data-scientist-and-big-data-engineer-f21u3e5c)
 90. [The problem with AI developer tools for enterprises (and what IKEA has to do with it)](https://towardsdatascience.com/the-problem-with-ai-developer-tools-for-enterprises-and-what-ikea-has-to-do-with-it-b26277841661)
+
 
 
 <a name="mlops-papers"></a>
